@@ -90,7 +90,7 @@ endl;
 getch();
  
  cout << " " << endl;
- cout << "Ulang (Y/T) ?" ;
+ cout << "Ulang (Yes/No) ?" ;
  ulang=getch();
  } while (ulang=='Y' || ulang=='y');
 return 0;
